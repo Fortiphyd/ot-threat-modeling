@@ -33,9 +33,11 @@ This project brings MITRE ATT&CK for ICS and ISA/IEC 62443 logic into threat mod
 ```bash
 git clone https://github.com/Fortiphyd/ot-threat-modeling.git
 ```
-3. Open the `MITRE_ICS.tb7` file in TMT
-4. Add components to your diagram, threats are generated automatically
-5. Use external scripts to analyze `.tm7` files
+3. Start the Microsoft TMT
+4. Browse and select the `MITRE_ICS.tb7` file under "Template for New Models
+5. Choose "Create a Model"
+6. Add components to your diagram, threats are generated automatically
+7. Use external scripts to analyze `.tm7` files
 
 ---
 
