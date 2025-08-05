@@ -105,7 +105,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get 
 ## 🙏 Acknowledgements
 
 - [MITRE ATT&CK for ICS](https://attack.mitre.org/matrices/ics/)
-- [ISA/IEC 62443](https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443)
+- [ISA/IEC 62443](https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards)
 - [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
 
 
